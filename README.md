@@ -12,10 +12,10 @@
 
 - 🎓 I'm a 3rd year student at Indian Insititute of Information Technology, Allahabad (IIITA)
 - 💻 Passionate about building software, exploring tech and contributing to open-source
-- 🚀 Current interests: **AI/ML**, **App Development**, **Cybersecurity**
+- 🚀 Current interests: **Blockchain**, **Cybersecurity**, **App Development**
 - 📫 How to reach me: <a href="wasilif8r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/wasil-iftekhar-7b2361289/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-- 🌱 Currently learning: `AI/ML`, `Flutter`
+- 🌱 Currently learning: `Cryptography`, `Blockchain`, `Flutter`
 
 ---
 
@@ -59,6 +59,8 @@
 
 ### ✨ Featured Projects
 
+- 🔗 [ProBono](https://github.com/i2mWasil/eudia-hackathon-frontend) - ProBono is a web platform that exposes the real “privacy cost” of digital services.
+- 🔗 [obSecure](https://github.com/i2mWasil/obSecure) - obSecure is a cross-platform end-to-end encrypted messaging application
 - 🔗 [Lencho](https://github.com/i2mWasil/lencho) - Lencho is a modern farming assistant app built for farmers and agricultural enthusiasts
 - 🔗 [ChordCraft](https://github.com/orange-carpet-org/chord-craft) - ChordCraft is an interactive app designed to help users learn and practice musical instruments.
 
