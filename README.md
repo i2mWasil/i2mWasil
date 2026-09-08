@@ -10,9 +10,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a 3rd year student at Indian Insititute of Information Technology, Allahabad (IIITA)
+- 🎓 I'm a final year student at Indian Insititute of Information Technology, Allahabad (IIITA)
 - 💻 Passionate about building software, exploring tech and contributing to open-source
-- 🚀 Current interests: **Blockchain**, **Cybersecurity**, **App Development**
+- 🚀 Current interests: **Machine Learning**, **Cybersecurity**, **App Development**, **Blockchain**
 - 📫 How to reach me: <a href="wasilif8r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/wasil-iftekhar-7b2361289/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 - 🌱 Currently learning: `Cryptography`, `Blockchain`, `Flutter`
